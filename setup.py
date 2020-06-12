@@ -34,8 +34,7 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: Apache Software License',
-        'Operating System :: OS Independent',
-        'Development Status:: 1 - Planning'
+        'Operating System :: OS Independent'
     ],
     packages=find_packages(),
     setup_requires=setup_deps,
